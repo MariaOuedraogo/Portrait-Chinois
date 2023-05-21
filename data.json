@@ -1,0 +1,51 @@
+[
+    {
+        "numerotation": "1",
+        "analogie": "Une couleur",
+        "valeurAnalogie": "Je serais le rose.",
+        "car": " Cette couleur me rappelle l’ enfance. Elle symbolise la joie, la tendresse et l’ euphorie. Le rose est versatile, il peut être énergique comme doux. Je pense que, bien plus que le rouge, le rose est la couleur de l’amour sous ses huits formes grecques.",
+        "backgroundImage": "img/couleur.jpeg"
+    },
+    {
+        "numerotation": "2",
+        "analogie": "Une saison",
+        "valeurAnalogie": "Je n'existerais pas.",
+        "car": " Je n'aime pas l'air chaud, et je suis malade la plus grande partie de l'hiver et du printemps. Il y a quelques années l'automne aurait été mon choix, mais avec le réchauffement climatique la saison n'existe plus vraiment. ",
+        "backgroundImage": "img/saison.jpeg"
+    },
+    {
+        "numerotation": "3",
+        "analogie": "Un mot",
+        "valeurAnalogie": "Je serais Zenosyne.",
+        "car": " Ce mot provient du “Dictionnaire des Douleurs Obscures” de John Koenig. Le dictionnaire tente de mettre des mots sur des émotions. Zenosyne est le sentiment que le temps passe de plus en plus vite. Cette année passe particulièrement rapidement et j'ai comme une sensation de tournis. L'impression d'être spectatrice de ma scolarité me suis par moment.  ",
+        "backgroundImage": "img/mot.jpg"
+    },
+    {
+        "numerotation": "4",
+        "analogie": "Une chanson",
+        "valeurAnalogie": "Je serais Redemption Song de Bob Marley.",
+        "car": " Elle est la dernière chanson de son dernier album. Redemption song raconte d’abord comment Bob Marley a réussi à sortir d’un cycle de persécution grâce à l’aide de Dieu. Il parle ensuite à ses fans « Émancipez-vous de l'esclavage mental, nul autre que nous-mêmes ne peut libérer notre esprit ». La chanson est comme son message d’adieu. Petite, cette chanson m'a donné l'envie d'apprendre à jouer de  la guitare    ",
+        "backgroundImage": "img/chansonnn.jpg"
+    },
+    {
+        "numerotation": "5",
+        "analogie": "Un dessin animé",
+        "valeurAnalogie": "Je serais le Winx Club.",
+        "car": " Les Winx prouvent aux jeunes filles qu’elles ont le choix. Elles peuvent être féminines comme Stella, ou plus androgynes comme Tecna , elles peuvent même s’affranchir d’un avenir tracé comme Layla. De plus la série nous montre l’importance du travail d’équipe et de l’amitié .        ",
+        "backgroundImage": "img/winx.jpg"
+    },
+    {
+        "numerotation": "6",
+        "analogie": "Un livre",
+        "valeurAnalogie": "Je serais “Mais leurs yeux dardaient sur dieu” de Zora Neale Hurston.",
+        "car": " C’est l’histoire de Janie Crawford, vendue par sa grand-mère à un homme possédant 60 acres de terre. Sa curiosité et sa détermination lui permettront de découvrir la vie, ses joies et ses peines, mais aussi l’amour. Ce livre est une magnifique oeuvre féministe. ",
+        "backgroundImage": "img/livre.jpg"
+    },
+    {
+        "numerotation": "7",
+        "analogie": "Un métro",
+        "valeurAnalogie": "Je serais la ligne 6.",
+        "car": " C’est la ligne qui selon moi , nous permet le mieux de découvrir Paris. Contrairement aux autres lignes, elle effectue une grande partie de son trajet en aérien . Ainsi on peut apprécier la beauté de la ville. De plus, la ligne permet un grand nombre de correspondances qui me permettent de naviguer à Paris. ",
+        "backgroundImage": "img/metro.jpg"
+    }
+]

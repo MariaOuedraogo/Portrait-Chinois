@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon portrait Chinois</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap" rel="stylesheet">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="cerveau.png">
+
+
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!--Ma barre de navigation-->
+
+    <nav data-aos="zoom-in">
+        <ul>
+            <li><a href="#top">accueil</a></li>
+            <li><a href="#a1">couleur</a></li>
+            <li><a href="#a2">saison</a></li>
+            <li><a href="#a3">mot</a></li>
+            <li><a href="#a4">chanson</a></li>
+            <li><a href="#a5">dessin animé</a></li>
+            <li><a href="#a6">livre</a></li>
+            <li><a href="#a7">métro</a></li>
+            <li><a href="#formulaire">et vous?</a></li>
+        </ul>
+    </nav>
+
+ <!--Ma landing section-->
+    <div class="hero " id="top">
+
+        <div class="container-hero">
+            <div data-aos="zoom-in" data-aos-duration="2300">
+                <h1 class="mpc">Si j'étais</h1>
+                <a href="#main" class="btn">VOIR</a>
+            </div>
+
+
+        </div>
+    </div>
+    
+<!--les analogies-->
+    <div class="analogie" id="main"></div>
+
+<!--Le formulaire-->
+    <section id="formulaire">
+
+        <div class="formuBox">
+
+            <form action="">
+                <h2 class="titreForm">CREER VOTRE SECTION!</h2>
+                <input id="mail" type="text" placeholder="entrez votre mail">
+                <br>
+                <input id="analogie" type="text" placeholder="Si j'étais (ex=une couleur)">
+                <br>
+                <input id="reponse" type="text" placeholder="je serais (ex: Le rose)">
+                <br>
+                <input id="detail" type="text" placeholder="Car (ex: C'est ma couleur préférée)">
+                <br>
+                <input id="img" type="text" placeholder=" entrez l'url d'une image">
+                <p class="send">Envoyer</p>
+            </form>
+
+        </div>
+    </section>
+
+<!--Pop up et Crédits-->
+
+    <!--le bouton-->
+    <button data-modal-target="#modal">Crédits</button>
+
+    <!--le pop up ouvert-->
+    <div class="modal" id="modal">
+        <div class="modal-header">
+            <div class="title">Crédits</div>
+
+        </div>
+        <div class="modal-body">
+            <p>Le Portrait Chinois est un projet scolaire réalisé lors de mon premier semestre en BUT MMI . Les professeurs encadrant sont Matthieu Berthet, Gaëlle Charpentier et Philippe Gambette.</p>
+            <p>Siège social : 2 Rue Albert Einstein, 77420 Champs-sur-MarneNuméro de téléphone : 01 60 95 85 85, Hébergeur : Le serveur de pages web pédagogiques de l’université Gustave Eiffel.</p>
+            <p>Conservation des données : l'API de Philipe Gambette.</p>
+            <p>Les images proviennent d'unplash.com, wallpapercave.com,winxclub.com,</p>
+            <p>Je tiens à remercier, Morgane Zarka et Idriss Merouane, pour leur aide sur la partie javaScript. Je remercie également, Moussa Diakite et Nathan Meneau pour leurs conseils en intégration.</p>
+        </div>
+    </div>
+    <div id="overlay"></div>
+    
+
+
+    <script src="data.js"></script>
+    <script src="main.js"></script>
+
+    <!--permet l'animation de la première section-->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+    </script>
+
+</body>
+
+</html>
+
+
+<!--
+
+
+
+    https://www.youtube.com/watch?v=hjS0D5dY6hg
+    https://www.youtube.com/watch?v=ShPPkZEeLPo
+    https://www.youtube.com/watch?v=Mpz33AUYLAo
+    https://www.youtube.com/watch?v=QGVXmoZWZuw
+    
+-->
